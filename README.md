@@ -1,1 +1,5 @@
-# Research
+## Research
+
+```Public Relations```
+
+```Mass Communication```
